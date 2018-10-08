@@ -1,2 +1,1 @@
-# proteomicsPractical
-Proteomics Practical
+# ProteomicsPractical
